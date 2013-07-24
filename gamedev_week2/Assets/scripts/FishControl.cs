@@ -40,5 +40,9 @@ public class FishControl : MonoBehaviour {
     // FixedUpdate is called every ___ sec.
     void FixedUpdate() {
         rigidbody.AddForce( moveVector, ForceMode.VelocityChange );
+
+        //is spacebar held down?
+        //  then instantiate a ball
+        //  and apply force to the ball
     }
 }

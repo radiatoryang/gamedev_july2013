@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{FDB7066C-0E09-172C-D34E-6312E4EE9D0B}") = "gamedev_week2", "Assembly-CSharp-vs.csproj", "{8EFF0B06-642E-311D-85F0-0995BCF7D281}"
+Project("{1BCF5F54-5602-1817-BDD5-8E14C0F4496C}") = "gamedev_week3", "Assembly-CSharp-vs.csproj", "{58EC7818-786C-EFC3-9EB4-C0F023CA4F49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8EFF0B06-642E-311D-85F0-0995BCF7D281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8EFF0B06-642E-311D-85F0-0995BCF7D281}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8EFF0B06-642E-311D-85F0-0995BCF7D281}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8EFF0B06-642E-311D-85F0-0995BCF7D281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58EC7818-786C-EFC3-9EB4-C0F023CA4F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EC7818-786C-EFC3-9EB4-C0F023CA4F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EC7818-786C-EFC3-9EB4-C0F023CA4F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EC7818-786C-EFC3-9EB4-C0F023CA4F49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-														GlobalSection(MonoDevelopProperties) = preSolution
+							GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
