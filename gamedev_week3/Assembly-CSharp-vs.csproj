@@ -45,6 +45,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\BallShooter.cs" />
+     <Compile Include="Assets\scripts\Fish.cs" />
+     <Compile Include="Assets\scripts\FishGod.cs" />
+     <Compile Include="Assets\scripts\GroundJump.cs" />
+     <Compile Include="Assets\scripts\MazeSolver.cs" />
      <Compile Include="Assets\scripts\TenPrint.cs" />
      <Compile Include="Assets\scripts\TenPrint1.cs" />
   </ItemGroup>
